@@ -1,0 +1,21 @@
+{
+  "name": "instaclone-backend",
+  "version": "1.0.0",
+  "description": "Instaclone backend using Express, MongoDB",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "NODE_ENV=production node src/server",
+    "dev": "nodemon src/server"
+  },
+  "author": "Manikandan Raji",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.19",
+    "nodemon": "^2.0.4"
+  }
+}
