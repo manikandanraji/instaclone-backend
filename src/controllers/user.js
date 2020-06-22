@@ -3,7 +3,7 @@ const Post = require("../models/Post");
 const asyncHandler = require("../middlewares/asyncHandler");
 
 exports.getUsers = asyncHandler(async (req, res, next) => {
-  let users = await User.find().select("-password").limit(5).lean().exec();
+  let users = await User.find().select("-password").lean().exec();
 
   users.forEach((user) => {
     user.isFollowing = false;
