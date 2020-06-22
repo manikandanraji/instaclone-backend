@@ -56,7 +56,7 @@ Then we need to manually setup the environmental variables using the heroku dash
 ![New Post](screenshots/newpost.png)
 
 ## Twitter clone
-I also built a twitter clone using Prisma + GraphQL. 
+I also built a twitter clone using Prisma + GraphQL. You can take a look, if you interested.
 
 1. [Twitter Clone Frontend](https://github.com/manikandanraji/twitter-clone-frontend)
 2. [Twitter Clone Backend](https://github.com/manikandanraji/twitter-clone-backend)
