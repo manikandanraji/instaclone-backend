@@ -35,8 +35,7 @@ exports.getPost = asyncHandler(async (req, res, next) => {
 	}
 
 	// is the post belongs to loggedin user?
-	const isPostMine = req.user.id === post.user._id.toString();
-	post.isPostMine = isPostMine;
+	post.isMine = req.user.id === post.user._id.toString();
 
 	// is the loggedin user liked the post??
 	const likes = post.likes.map(like => like.toString());
