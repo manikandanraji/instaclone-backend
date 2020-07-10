@@ -1,6 +1,8 @@
 # Instaclone Backend
 
-Instaclone backend is built with Express + MongoDB. If you looking for the frontend repo, [click here](https://github.com/manikandanraji/instaclone-frontend)
+Instagram clone using MERN stack
+
+This is the backend repo built with Express and MongoDB. If you looking for the frontend repo, [click here](https://github.com/manikandanraji/instaclone-frontend)
 
 [Check out the deployed site](https://instaclone2.netlify.app)
 
@@ -33,7 +35,7 @@ git push heroku master
 ```
 Then we need to manually setup the environmental variables using the heroku dashboard
 
-## How it looks
+## UI
 
 ### Home 
 ![Home](screenshots/home.png)
@@ -42,8 +44,8 @@ Then we need to manually setup the environmental variables using the heroku dash
 ![Explore](screenshots/explore.png)
 
 
-### Detailed Post
-![Detailed Post](screenshots/detailed_post.png)
+### Followers
+![Followers](screenshots/followers.png)
 
 
 ### Profile
@@ -53,10 +55,4 @@ Then we need to manually setup the environmental variables using the heroku dash
 ![Edit Profile](screenshots/edit_profile.png)
 
 ### New Post
-![New Post](screenshots/newpost.png)
-
-## Twitter clone
-I also built a twitter clone using Prisma + GraphQL. You can take a look, if you interested.
-
-1. [Twitter Clone Frontend](https://github.com/manikandanraji/twitter-clone-frontend)
-2. [Twitter Clone Backend](https://github.com/manikandanraji/twitter-clone-backend)
+![New Post](screenshots/new_post.png)
