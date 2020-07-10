@@ -38,21 +38,21 @@ Then we need to manually setup the environmental variables using the heroku dash
 ## UI
 
 ### Home 
-![Home](screenshots/home.png)
+![Home](screenshots/home_new.png)
 
 ### Explore
-![Explore](screenshots/explore.png)
+![Explore](screenshots/explore_new.png)
 
 
 ### Followers
-![Followers](screenshots/followers.png)
+![Followers](screenshots/followers_new.png)
 
 
 ### Profile
-![Profile](screenshots/profile.png)
+![Profile](screenshots/profile_new.png)
 
 ### Edit Profile
-![Edit Profile](screenshots/edit_profile.png)
+![Edit Profile](screenshots/edit_profile_new.png)
 
 ### New Post
-![New Post](screenshots/new_post.png)
+![New Post](screenshots/new_post_new.png)
