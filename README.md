@@ -1,10 +1,10 @@
 # Instaclone Backend
 
+**NOTE: As of 10-06-2022 19:52 IST, I am archiving this repository. It was fun while it lasted.**
+
 Instagram clone using MERN stack
 
 This is the backend repo built with Express and MongoDB. If you looking for the frontend repo, [click here](https://github.com/manikandanraji/instaclone-frontend)
-
-[Check out the deployed site](https://merninsta.netlify.app)
 
 ## Running Locally
 
